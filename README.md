@@ -1,6 +1,6 @@
 # fat-counter
 
-made during the scrimba course
+made during the scrimba Frontend Developer Career Path  
 ![image description](screenshot.jpg)
 
 Quick start:
